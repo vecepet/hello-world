@@ -53,4 +53,4 @@ git add
 git commit
 ```
 
-Testing [link](#structured-documents)
+Go to [Structured documents](#structured-documents) | [Hello world](#hello-world)
