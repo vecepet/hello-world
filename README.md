@@ -1,8 +1,8 @@
 # Table of Contents
 
 1. [Hello world](#hello-world)
-  1. [Text](#text)
-  1. [Lists](#lists)
+   1. [Text](#text)
+   1. [Lists](#lists)
 1. [Structured documents](#structured-documents)
   
 # hello-world
